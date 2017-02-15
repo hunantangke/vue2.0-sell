@@ -1,4 +1,4 @@
-# 饿了么点餐系统
+# vue2.0 WebAPP点餐系统
 
 > vue2.0、vue-router、vue-resource、webpack、better-scroll
 
